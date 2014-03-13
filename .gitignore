@@ -1,0 +1,8 @@
+[Dd]ebug/
+[Rr]elease/
+ipch/
+x64/
+*.user
+*.suo
+*.sdf
+*.opensdf
